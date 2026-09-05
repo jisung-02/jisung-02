@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-labelledby="title desc">
+  <title id="title">Jisung's snail garden</title>
+  <desc id="desc">Three little pixel snails wander through a moonlit garden with mushrooms, flowers and fireflies.</desc>
+  <defs>
+    <g id="snail" shape-rendering="crispEdges">
+      <path fill="#233c39" d="M0 30h8v-4h32v-8h4v-8h4v12h8V10h4v16h4v8h-4v4H8v-4H0z"/>
+      <path fill="#b8dba0" d="M4 30h8v-4h28v-4h16v4h4v8H8v-4z"/>
+      <path fill="#e0efb5" d="M12 30h44v4H12zM44 14h4v8h-4zM56 14h4v8h-4z"/>
+      <path fill="#eff7da" d="M40 6h12v8H40zM52 6h12v8H52z"/>
+      <path fill="#233c39" d="M48 8h4v4h-4zM60 8h4v4h-4zM52 26h4v4h-4z"/>
+      <path fill="var(--rim, #8e563f)" d="M8 10h4V6h20v4h4v4h4v16H8v-4H4V14h4z"/>
+      <path fill="var(--shell, #dda66e)" d="M12 10h20v4h4v12h-4v4H12v-4H8V14h4z"/>
+      <path fill="var(--rim, #8e563f)" d="M16 14h12v4h4v8H16v-4h-4v-4h4v4h12v-4H16z"/>
+      <path fill="var(--shine, #f9dca0)" d="M12 10h16v4H12zM8 14h4v8H8z"/>
+    </g>
+    <g id="grass" fill="#54795b" shape-rendering="crispEdges">
+      <path d="M0 10V2h3v5h3V0h3v10z"/>
+    </g>
+    <g id="flower" shape-rendering="crispEdges">
+      <path fill="#679b6e" d="M6 8h3v14H6zM0 14h6v3H0z"/>
+      <path fill="#e3c5a5" d="M3 0h9v3h3v6h-3v3H3V9H0V3h3z"/>
+      <path fill="#e5ad59" d="M5 4h5v4H5z"/>
+    </g>
+    <g id="mushroom" shape-rendering="crispEdges">
+      <path fill="#decba7" d="M10 13h8v15h-8z"/>
+      <path fill="#b96b65" d="M6 0h16v4h4v4h4v8H-2V8h4V4h4z"/>
+      <path fill="#f4d5b7" d="M6 4h4v4H6zM18 8h6v4h-6zM2 12h4v4H2z"/>
+    </g>
+  </defs>
+  <rect width="800" height="260" rx="16" fill="#111f29"/>
+  <path fill="#182e35" d="M0 130h48v-14h72v14h64v-22h96v16h64v-12h112v20h64v-24h96v18h80v-14h104v148H0z"/>
+  <path fill="#233f3e" d="M0 165h56v-12h80v12h96v-16h80v16h120v-8h112v8h80v-16h112v16h64v79H0z"/>
+  <rect x="1" y="1" width="798" height="258" rx="15" fill="none" stroke="#304746"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="30" y="39" fill="#e2edd3" font-size="15" letter-spacing="2">JISUNG'S SNAIL GARDEN</text>
+    <text x="30" y="61" fill="#8baba5" font-size="11" letter-spacing="1">a little progress, every day.</text>
+    <text x="770" y="239" text-anchor="end" fill="#83a49a" font-size="10" letter-spacing="1">TAKE YOUR TIME</text>
+  </g>
+  <path fill="#e9deaa" shape-rendering="crispEdges" d="M708 30h24v6h6v24h-6v6h-24v-6h-6V36h6z"/>
+  <path fill="#111f29" shape-rendering="crispEdges" d="M720 24h18v6h6v24h-6v6h-18v-6h-6V30h6z"/>
+  <g fill="#90b7ad">
+    <path d="M386 35h3v3h-3zM470 68h3v3h-3zM588 28h3v3h-3zM665 83h3v3h-3zM759 101h3v3h-3zM311 85h3v3h-3z"/>
+    <path d="M536 42h2v8h-2zM533 45h8v2h-8zM643 31h2v8h-2zM640 34h8v2h-8z"/>
+  </g>
+  <path fill="#3c5146" d="M0 198h800v22H0z"/>
+  <path fill="#283c36" d="M0 220h800v24H0z"/>
+  <g fill="#7c8260" shape-rendering="crispEdges">
+    <path d="M24 209h28v3H24zM127 204h16v3h-16zM255 211h26v3h-26zM394 205h18v3h-18zM503 214h26v3h-26zM630 207h18v3h-18zM727 215h31v3h-31z"/>
+  </g>
+  <g>
+    <use href="#grass" x="22" y="188"/><use href="#grass" x="112" y="185"/>
+    <use href="#grass" x="265" y="190"/><use href="#grass" x="407" y="187"/>
+    <use href="#grass" x="555" y="190"/><use href="#grass" x="760" y="187"/>
+    <use href="#flower" x="56" y="170"/><use href="#flower" x="366" y="171"/>
+    <use href="#flower" x="744" y="166"/>
+    <use href="#mushroom" x="658" y="173"/>
+    <g transform="translate(692 181) scale(.65)"><use href="#mushroom"/></g>
+  </g>
+  <g transform="translate(95 164)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;100 0;0 0" dur="46s" repeatCount="indefinite"/>
+      <use href="#snail"/>
+    </g>
+  </g>
+  <g transform="translate(438 161) scale(-.85 .85)" style="--shell:#b0a6cf;--rim:#6f648e;--shine:#e1d4ef">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;70 0;0 0" dur="37s" repeatCount="indefinite"/>
+      <use href="#snail"/>
+    </g>
+  </g>
+  <g transform="translate(512 175) scale(.65)" style="--shell:#8bc0b8;--rim:#4b827e;--shine:#c5e7ce">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;90 0;0 0" dur="31s" repeatCount="indefinite"/>
+      <use href="#snail"/>
+    </g>
+  </g>
+  <g fill="#d7de98">
+    <rect x="238" y="140" width="3" height="3"><animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/></rect>
+    <rect x="486" y="122" width="3" height="3"><animate attributeName="opacity" values="1;.2;1" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="621" y="153" width="3" height="3"><animate attributeName="opacity" values=".2;1;.2" dur="6s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

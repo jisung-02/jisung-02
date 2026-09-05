@@ -125,3 +125,7 @@ Elixir HTTP 서버의 헤더 파싱에서 반복 연산과 옵션 조회를 줄�
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jisung-02&theme=github_dark" alt="jisung-02 저장소별 사용 언어 통계" width="48%">
   </a>
 </p>
+
+## 🐌 Snail Garden
+
+![달빛 아래 작은 정원을 천천히 산책하는 달팽이 세 마리](assets/snail-garden.svg)
