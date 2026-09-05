@@ -30,17 +30,17 @@
 
 ## 🏆 Awards & Scholarships
 
-- **2026.07** · KCC2026 학부생부문 최우수상 — 한국정보과학회 · 제1저자<br>
+- KCC2026 학부생부문 최우수상 — 한국정보과학회 · 제1저자<br>
   VoLTE 단말의 SIP 취약점 탐지를 위한 무선 퍼징 시스템 연구
-- **2025** · 국가우수이공계 장학생 — 한국장학재단 · 재학 중 우수자
-- **2024.08** · Blaybus MVP 해커톤 최우수상 — 치매 환자용 알약 디스펜서 앱·서버 개발
-- **2024.06** · 경기도 평화 두드림 청년 아이디어톤 우수상 — 탈북 청년의 사회 정착을 돕는 커뮤니티 플랫폼 기획
+- 국가우수이공계 장학생 — 한국장학재단 · 재학 중 우수자
+- Blaybus MVP 해커톤 최우수상 — 치매 환자용 알약 디스펜서 앱·서버 개발
+- 경기도 평화 두드림 청년 아이디어톤 우수상 — 탈북 청년의 사회 정착을 돕는 커뮤니티 플랫폼 기획
 
 ## 📜 Qualifications
 
-- **2026.05** · TOPCIT 수준 4 · 680 / 1000
-- **2025.12** · 정보처리기사
-- **2024.12** · SQLD
+- TOPCIT 수준 4 · 680 / 1000
+- 정보처리기사
+- SQLD
 
 ## 🤝 Activities
 
@@ -94,6 +94,7 @@ Open5GS · srsRAN · Kamailio
 </div>
 
 ## 🚀 Selected Projects
+
 | 프로젝트 | 소개 | 기술 |
 | :--- | :--- | :--- |
 | **[SIP Mutation Fuzzer](https://github.com/jisung-02/sip-mutation-fuzzer)** | VoLTE/IMS 환경에서 SIP 메시지를 변형해 단말 취약점을 탐지하는 퍼징 시스템 | Python · Open5GS · srsRAN · Kamailio |
@@ -105,7 +106,7 @@ Open5GS · srsRAN · Kamailio
 
 ## 🔍 Security Research & Open Source
 
-**Ash Framework · 취약점 제보 3건** `2026.08`
+**Ash Framework · 취약점 제보 3건**
 
 | Advisory | 내용 |
 | :--- | :--- |
@@ -113,7 +114,7 @@ Open5GS · srsRAN · Kamailio
 | [CVE-2026-69659](https://github.com/ash-project/ash/security/advisories/GHSA-j35q-v8h8-7mwq) | 키셋 커서 역직렬화에 의한 메모리 고갈 |
 | [CVE-2026-70395](https://github.com/ash-project/ash/security/advisories/GHSA-vvp6-3wv6-833j) | 관계 조회 조건 주입에 의한 비밀 조회 키 노출 |
 
-**Bandit · [PR #626](https://github.com/mtrudel/bandit/pull/626)** `2026.07`<br>
+**Bandit · [PR #626](https://github.com/mtrudel/bandit/pull/626)**<br>
 Elixir HTTP 서버의 헤더 파싱에서 반복 연산과 옵션 조회를 줄이는 개선 PR을 작성해 병합했습니다.
 
 ## 📈 GitHub Stats
