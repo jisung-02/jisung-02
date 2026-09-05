@@ -14,12 +14,6 @@ AlpacaX 백엔드팀 · 경희대학교 컴퓨터공학과 졸업
 
 </div>
 
-## About
-
-- **Backend** — AlpacaX에서 백엔드 개발을 하고 있습니다.
-- **Security & Networks** — VoLTE/IMS 환경의 SIP 퍼징과 오픈소스 취약점을 연구합니다.
-- **Writing** — 운영체제·기계학습·네트워크 수업 노트와 클라우드·홈랩 구축 기록을 [블로그](https://jisung-02.github.io/)에 남깁니다.
-
 ## Security Research & Open Source
 
 **Ash Framework · 취약점 제보 3건** `2026.08`
@@ -43,8 +37,6 @@ Elixir HTTP 서버의 헤더 파싱에서 반복 연산과 옵션 조회를 줄�
 | **[Aether](https://github.com/jisung-02/aether)** | Gleam으로 작성한 서버 프레임워크와 학습용 네트워킹 스택 | Gleam · Erlang/BEAM · TCP/UDP · HTTP |
 | **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
 | **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
-
-더 많은 프로젝트와 상세 이력은 **[포트폴리오](https://jisung-02.github.io/portfolio/)**에서 확인할 수 있습니다.
 
 ## Tech Stack
 
