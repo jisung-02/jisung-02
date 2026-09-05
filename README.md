@@ -1,6 +1,8 @@
 <div align="center">
 
-# 채지성 · Jisung Chae
+![Jisung Chae banner](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:38bdf8&height=180&section=header&text=Jisung%20Chae&fontSize=48&fontColor=ffffff)
+
+# 👋 안녕하세요, 채지성입니다!
 
 **Software Engineer · Backend, Security & Networks**
 
@@ -14,7 +16,56 @@ AlpacaX 백엔드팀 · 경희대학교 컴퓨터공학과 졸업
 
 </div>
 
-## Security Research & Open Source
+## 🛠 Tech Stack
+
+<div align="center">
+
+**주로 사용**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django / DRF](https://img.shields.io/badge/Django%20%2F%20DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**프로젝트에서 사용**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**데이터**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**연구 · 실험**
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+
+**네트워크** · TCP · WebSocket · gRPC · SIP/IMS<br>
+**통신 연구 환경** · Open5GS · srsRAN · Kamailio
+
+</div>
+
+## 🚀 Selected Projects
+
+| 프로젝트 | 소개 | 기술 |
+| :--- | :--- | :--- |
+| **[SIP Mutation Fuzzer](https://github.com/jisung-02/sip-mutation-fuzzer)** | VoLTE/IMS 환경에서 SIP 메시지를 변형해 단말 취약점을 탐지하는 퍼징 시스템 | Python · Open5GS · srsRAN · Kamailio |
+| **[RCP](https://github.com/KHU-RETURN/rcp-server)** | 동아리 구성원을 위한 OpenStack 기반 사설 클라우드 플랫폼 | Go · Gin · ent · OpenStack |
+| **NUVO** | 전화 상황을 연습하는 AI 통화 트레이닝 서비스 | Python · gRPC · LangGraph · Kotlin/Spring · Elixir |
+| **[Aether](https://github.com/jisung-02/aether)** | Gleam으로 작성한 서버 프레임워크와 학습용 네트워킹 스택 | Gleam · Erlang/BEAM · TCP/UDP · HTTP |
+| **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
+| **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
+
+## 🔍 Security Research & Open Source
 
 **Ash Framework · 취약점 제보 3건** `2026.08`
 
@@ -27,34 +78,7 @@ AlpacaX 백엔드팀 · 경희대학교 컴퓨터공학과 졸업
 **Bandit · [PR #626](https://github.com/mtrudel/bandit/pull/626)** `2026.07`<br>
 Elixir HTTP 서버의 헤더 파싱에서 반복 연산과 옵션 조회를 줄이는 개선 PR을 작성해 병합했습니다.
 
-## Selected Projects
-
-| 프로젝트 | 소개 | 기술 |
-| :--- | :--- | :--- |
-| **[SIP Mutation Fuzzer](https://github.com/jisung-02/sip-mutation-fuzzer)** | VoLTE/IMS 환경에서 SIP 메시지를 변형해 단말 취약점을 탐지하는 퍼징 시스템 | Python · Open5GS · srsRAN · Kamailio |
-| **[RCP](https://github.com/KHU-RETURN/rcp-server)** | 동아리 구성원을 위한 OpenStack 기반 사설 클라우드 플랫폼 | Go · Gin · ent · OpenStack |
-| **NUVO** | 전화 상황을 연습하는 AI 통화 트레이닝 서비스 | Python · gRPC · LangGraph · Kotlin/Spring · Elixir |
-| **[Aether](https://github.com/jisung-02/aether)** | Gleam으로 작성한 서버 프레임워크와 학습용 네트워킹 스택 | Gleam · Erlang/BEAM · TCP/UDP · HTTP |
-| **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
-| **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
-
-## Tech Stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-| 분야 | 사용 기술 |
-| :--- | :--- |
-| 주로 사용 | Go · Python · Django/DRF · Linux · Docker |
-| 프로젝트 | FastAPI · Spring · TypeScript · OpenStack · GitHub Actions |
-| 데이터 | PostgreSQL · Redis · MongoDB · Elasticsearch |
-| 네트워크 | TCP · WebSocket · gRPC · SIP/IMS |
-| 연구·실험 | Open5GS · srsRAN · Kamailio · Elixir · Gleam · WebAssembly |
-
-## Experience & Highlights
+## 💼 Experience & Highlights
 
 **AlpacaX · Software Engineer, 백엔드팀** `2026.01 — 현재`<br>
 인턴 → 계약직 → 정규직으로 이어서 근무하고 있습니다.
@@ -99,3 +123,12 @@ VoLTE 단말의 SIP 취약점 탐지를 위한 무선 퍼징 시스템 연구
 - **2024.03 — 2024.08** · 학술동아리 RETURN 회장
 
 </details>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/jisung-02">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jisung-02&theme=github_dark" alt="jisung-02 GitHub 활동 통계" width="48%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jisung-02&theme=github_dark" alt="jisung-02 저장소별 사용 언어 통계" width="48%">
+  </a>
+</p>
