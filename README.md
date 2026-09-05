@@ -111,18 +111,6 @@ Open5GS · srsRAN · Kamailio
 | **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
 | **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
 
-## 🧰 Tools I Build & Use
-
-직접 만들어 개발과 일상에 사용하는 공개 도구들입니다.
-
-| 도구 | 용도 |
-| :--- | :--- |
-| **[Paper Tools](https://github.com/jisung-02/paper-tools)** | 파일 업로드 없이 브라우저에서 PDF·이미지·문서를 변환하고 편집하는 도구 모음 · [사용하기](https://papertools.dev) |
-| **[Chaejip · 채집](https://github.com/jisung-02/Chaejip)** | 웹 페이지와 로컬 카카오톡 대화를 수집·검색하는 MCP 서버 |
-| **[prompt-queue](https://github.com/jisung-02/prompt-queue)** | Claude Code에 프롬프트를 미리 쌓아두고 턴이 끝날 때마다 순서대로 실행하는 CLI·TUI |
-| **[orbi](https://github.com/jisung-02/orbi)** | 터미널·포모도로·파일 선반·시스템 모니터를 모아둔 macOS 데스크톱 위젯 |
-| **[webdesktopmcp](https://github.com/jisung-02/webdesktopmcp)** | Electron·Tauri·Wails 앱의 기능을 외부 MCP 클라이언트에 연결하는 실험적 WebMCP 브리지 |
-
 ## 🔍 Security Research & Open Source
 
 **Ash Framework · 취약점 제보 3건**
