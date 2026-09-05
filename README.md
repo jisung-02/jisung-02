@@ -6,8 +6,7 @@
 
 **Software Engineer · Backend, Security & Networks**
 
-보안, 네트워크, 서버 개발에 관심이 있습니다.<br>
-AlpacaX 백엔드팀 · 경희대학교 컴퓨터공학과 졸업
+보안, 네트워크, 서버 개발에 관심이 있습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://jisung-02.github.io/portfolio/)
 [![Blog](https://img.shields.io/badge/Blog-2563EB?style=flat-square&logo=readme&logoColor=white)](https://jisung-02.github.io/)
