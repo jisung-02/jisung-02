@@ -28,10 +28,17 @@
 **경희대학교 컴퓨터공학과** `2021.03 — 2026.08`<br>
 졸업 · GPA 3.797 / 4.3 (4.08 / 4.5)
 
+## 📄 Publications
+
+- **VoLTE 단말 IMS 환경에서의 SIP 기반 취약점 탐지를 위한 Over-the-Air 블랙박스 퍼징 시스템**<br>
+  **채지성** · 박철준(경희대학교) · 제1저자<br>
+  2026 한국컴퓨터종합학술대회(KCC2026) · 정보보안및고신뢰컴퓨팅 · P8.5-09<br>
+  [공식 논문집](https://kcc2026.kiise.or.kr/Proceedings/SessionSearch.asp?SrchText=%EC%B1%84%EC%A7%80%EC%84%B1) · [최우수상 수상 안내](https://swedu.khu.ac.kr/bbs/board.php?bo_table=07_02&wr_id=601)
+
 ## 🏆 Awards & Scholarships
 
 - KCC2026 학부생부문 최우수상 — 한국정보과학회 · 제1저자<br>
-  VoLTE 단말의 SIP 취약점 탐지를 위한 무선 퍼징 시스템 연구
+  VoLTE 단말 IMS 환경에서의 SIP 기반 취약점 탐지를 위한 Over-the-Air 블랙박스 퍼징 시스템
 - 국가우수이공계 장학생 — 한국장학재단 · 재학 중 우수자
 - Blaybus MVP 해커톤 최우수상 — 치매 환자용 알약 디스펜서 앱·서버 개발
 - 경기도 평화 두드림 청년 아이디어톤 우수상 — 탈북 청년의 사회 정착을 돕는 커뮤니티 플랫폼 기획
