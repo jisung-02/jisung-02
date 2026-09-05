@@ -110,6 +110,16 @@ Open5GS · srsRAN · Kamailio
 | **[Aether](https://github.com/jisung-02/aether)** | Gleam으로 작성한 서버 프레임워크와 학습용 네트워킹 스택 | Gleam · Erlang/BEAM · TCP/UDP · HTTP |
 | **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
 | **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
+| **[webdesktopmcp](https://github.com/jisung-02/webdesktopmcp)** | Electron·Tauri·Wails 데스크톱 앱에 WebMCP를 연동하는 실험적 브리지 | TypeScript · Rust · Go · WebMCP |
+
+## 🧰 Tools I Build & Use
+
+직접 만들어 개발과 일상에 사용하는 도구들입니다.
+
+| 도구 | 용도 |
+| :--- | :--- |
+| **[채집 · Chaejip](https://github.com/jisung-02/Chaejip)** | 웹 페이지와 로컬 카카오톡 대화를 수집·검색하는 MCP 서버 |
+| **[오르비 · orbi](https://github.com/jisung-02/orbi)** | 터미널·포모도로·파일 선반·시스템 모니터를 모아둔 macOS 데스크톱 위젯 |
 
 ## 🔍 Security Research & Open Source
 
