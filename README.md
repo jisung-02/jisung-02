@@ -15,46 +15,85 @@
 
 </div>
 
-## 🛠 Tech Stack
+## 💼 Experience
+
+| 기간 | 소속 · 역할 |
+| :--- | :--- |
+| 2026.01 — 현재 | AlpacaX · 정규직 · Software Engineer · 백엔드팀 |
+| 2025.06 — 2025.12 | AlpacaX · 계약직 · 백엔드팀 |
+| 2024.12 — 2025.06 | AlpacaX · 인턴 · 백엔드팀 · 학교 현장실습 |
+
+## 🎓 Education
+
+**경희대학교 컴퓨터공학과** `2021.03 — 2026.08`<br>
+졸업 · GPA 3.797 / 4.3 (4.08 / 4.5)
+
+## 🏆 Awards & Scholarships
+
+- **2026.07** · KCC2026 학부생부문 최우수상 — 한국정보과학회 · 제1저자<br>
+  VoLTE 단말의 SIP 취약점 탐지를 위한 무선 퍼징 시스템 연구
+- **2025** · 국가우수이공계 장학생 — 한국장학재단 · 재학 중 우수자
+- **2024.08** · Blaybus MVP 해커톤 최우수상 — 치매 환자용 알약 디스펜서 앱·서버 개발
+- **2024.06** · 경기도 평화 두드림 청년 아이디어톤 우수상 — 탈북 청년의 사회 정착을 돕는 커뮤니티 플랫폼 기획
+
+## 📜 Qualifications
+
+- **2026.05** · TOPCIT 수준 4 · 680 / 1000
+- **2025.12** · 정보처리기사
+- **2024.12** · SQLD
+
+## 🤝 Activities
+
+- **2025.03 — 2025.06** · 경희대학교 운영체제 SW멘토
+- **2025.03 — 2025.06** · RETURN 신입생 Python 교육
+- **2024.09 — 2024.12** · 경희고등학교 C++ 교육 멘토
+- **2024.03 — 2024.08** · 학술동아리 RETURN 회장
 
 <div align="center">
 
-**주로 사용**
+## 🛠 Tech Stack
+
+##### Programming Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
+
+##### Backend
+
 ![Django / DRF](https://img.shields.io/badge/Django%20%2F%20DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**프로젝트에서 사용**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**데이터**
+##### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-**연구 · 실험**
+##### Infra
 
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+##### Network
+
+TCP · WebSocket · gRPC · SIP/IMS
+
+##### Research & Experiments
+
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
-**네트워크** · TCP · WebSocket · gRPC · SIP/IMS<br>
-**통신 연구 환경** · Open5GS · srsRAN · Kamailio
+Open5GS · srsRAN · Kamailio
 
 </div>
 
 ## 🚀 Selected Projects
-
 | 프로젝트 | 소개 | 기술 |
 | :--- | :--- | :--- |
 | **[SIP Mutation Fuzzer](https://github.com/jisung-02/sip-mutation-fuzzer)** | VoLTE/IMS 환경에서 SIP 메시지를 변형해 단말 취약점을 탐지하는 퍼징 시스템 | Python · Open5GS · srsRAN · Kamailio |
@@ -76,52 +115,6 @@
 
 **Bandit · [PR #626](https://github.com/mtrudel/bandit/pull/626)** `2026.07`<br>
 Elixir HTTP 서버의 헤더 파싱에서 반복 연산과 옵션 조회를 줄이는 개선 PR을 작성해 병합했습니다.
-
-## 💼 Experience & Highlights
-
-**AlpacaX · Software Engineer, 백엔드팀** `2026.01 — 현재`<br>
-인턴 → 계약직 → 정규직으로 이어서 근무하고 있습니다.
-
-**KCC2026 학부생부문 최우수상 · 제1저자** `2026.07`<br>
-VoLTE 단말의 SIP 취약점 탐지를 위한 무선 퍼징 시스템 연구
-
-<details>
-<summary><b>경력 · 학력 · 수상 · 활동 전체 보기</b></summary>
-
-### Experience
-
-| 기간 | 소속 · 역할 |
-| :--- | :--- |
-| 2026.01 — 현재 | AlpacaX · 정규직 · Software Engineer · 백엔드팀 |
-| 2025.06 — 2025.12 | AlpacaX · 계약직 · 백엔드팀 |
-| 2024.12 — 2025.06 | AlpacaX · 인턴 · 백엔드팀 · 학교 현장실습 |
-
-### Education
-
-**경희대학교 컴퓨터공학과** `2021.03 — 2026.08`<br>
-졸업 · GPA 3.797 / 4.3 (4.08 / 4.5)
-
-### Awards & Scholarships
-
-- **2026.07** · KCC2026 학부생부문 최우수상 — 한국정보과학회 · 제1저자
-- **2025** · 국가우수이공계 장학생 — 한국장학재단 · 재학 중 우수자
-- **2024.08** · Blaybus MVP 해커톤 최우수상 — 치매 환자용 알약 디스펜서 앱·서버 개발
-- **2024.06** · 경기도 평화 두드림 청년 아이디어톤 우수상 — 탈북 청년의 사회 정착을 돕는 커뮤니티 플랫폼 기획
-
-### Qualifications
-
-- **2026.05** · TOPCIT 수준 4 · 680 / 1000
-- **2025.12** · 정보처리기사
-- **2024.12** · SQLD
-
-### Activities
-
-- **2025.03 — 2025.06** · 경희대학교 운영체제 SW멘토
-- **2025.03 — 2025.06** · RETURN 신입생 Python 교육
-- **2024.09 — 2024.12** · 경희고등학교 C++ 교육 멘토
-- **2024.03 — 2024.08** · 학술동아리 RETURN 회장
-
-</details>
 
 ## 📈 GitHub Stats
 
