@@ -45,7 +45,7 @@
 
 ## 📜 Qualifications
 
-- TOPCIT 수준 4 · 680 / 1000
+- TOPCIT 수준 4
 - 정보처리기사
 - SQLD
 
