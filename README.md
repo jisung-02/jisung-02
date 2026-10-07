@@ -23,10 +23,6 @@
 | 2025.06 — 2025.12 | AlpacaX · 계약직 · 백엔드팀 |
 | 2024.12 — 2025.06 | AlpacaX · 인턴 · 백엔드팀 · 학교 현장실습 |
 
-**Pertineo · 경희대학교 자기소개서 분석 서비스 취약점 발견 및 개선 제안**<br>
-서비스 주요 기능의 취약점을 발견하고, PoC로 재현·검증한 뒤 개선 방안을 제안했습니다. 해당 제안을 바탕으로 이메일 인증·사용자별 접근 권한·공지사항 보안이 강화됐습니다.<br>
-[공식 패치노트 · 2026.09.15](https://pertineo.khu.ac.kr/notice/1789459715668)
-
 ## 🎓 Education
 
 **경희대학교 컴퓨터공학과** `2021.03 — 2026.08`<br>
@@ -109,6 +105,7 @@
 | **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
 | **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
 | **[webdesktopmcp](https://github.com/jisung-02/webdesktopmcp)** | Electron·Tauri·Wails 데스크톱 앱에 WebMCP를 연동하는 실험적 브리지 | TypeScript · Rust · Go · WebMCP |
+| **[Pertineo](https://pertineo.khu.ac.kr/notice/1789459715668)** | 경희대학교 자기소개서 분석 서비스의 취약점 발견 및 개선 제안. 주요 기능의 취약점을 PoC로 재현·검증하고 개선 방안을 제안해 이메일 인증·사용자별 접근 권한·공지사항 보안 강화에 기여. [공식 패치노트 · 2026.09.15](https://pertineo.khu.ac.kr/notice/1789459715668) | 보안 PoC · 취약점 분석 |
 
 ## 🔍 Security Research & Open Source
 
