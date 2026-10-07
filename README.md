@@ -124,6 +124,12 @@ Open5GS · srsRAN · Kamailio
 | :--- | :--- |
 | [CVE-2026-84429](https://www.djangoproject.com/weblog/2026/oct/06/security-releases/#cve-2026-84429-potential-denial-of-service-vulnerability-in-http-header-parsing) | HTTP 헤더 파싱의 이차 시간 복잡도에 의한 서비스 거부(DoS) |
 
+**Django REST Framework · 공동 발견 1건**
+
+| Advisory | 내용 |
+| :--- | :--- |
+| [GHSA-3547-9m27-7rxg](https://github.com/encode/django-rest-framework/security/advisories/GHSA-3547-9m27-7rxg) | JSONParser의 charset 처리에서 압축 코덱을 통한 메모리 증폭 및 서비스 거부(DoS) · 공동 발견자 |
+
 **Ash Framework · 취약점 제보 3건**
 
 | Advisory | 내용 |
