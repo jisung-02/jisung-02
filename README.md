@@ -68,9 +68,9 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
 
 ##### Backend
 
@@ -91,16 +91,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-##### Network
-
-TCP · WebSocket · gRPC · SIP/IMS
-
-##### Research & Experiments
-
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-
-Open5GS · srsRAN · Kamailio
 
 </div>
 
@@ -137,9 +127,6 @@ Open5GS · srsRAN · Kamailio
 | [CVE-2026-67579](https://github.com/ash-project/ash/security/advisories/GHSA-3gq3-9xm3-c8v3) | 키셋 커서의 필터 표현식 주입 — 데이터 계층에 따라 SQL 인젝션 또는 코드 실행 |
 | [CVE-2026-69659](https://github.com/ash-project/ash/security/advisories/GHSA-j35q-v8h8-7mwq) | 키셋 커서 역직렬화에 의한 메모리 고갈 |
 | [CVE-2026-70395](https://github.com/ash-project/ash/security/advisories/GHSA-vvp6-3wv6-833j) | 관계 조회 조건 주입에 의한 비밀 조회 키 노출 |
-
-**Bandit · [PR #626](https://github.com/mtrudel/bandit/pull/626)**<br>
-Elixir HTTP 서버의 헤더 파싱에서 반복 연산과 옵션 조회를 줄이는 개선 PR을 작성해 병합했습니다.
 
 ## 📈 GitHub Stats
 
