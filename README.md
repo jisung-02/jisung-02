@@ -100,7 +100,7 @@
 | :--- | :--- | :--- |
 | **[SIP Mutation Fuzzer](https://github.com/jisung-02/sip-mutation-fuzzer)** | VoLTE/IMS 환경에서 SIP 메시지를 변형해 단말 취약점을 탐지하는 퍼징 시스템 | Python · Open5GS · srsRAN · Kamailio |
 | **[RCP](https://github.com/KHU-RETURN/rcp-server)** | 동아리 구성원을 위한 OpenStack 기반 사설 클라우드 플랫폼 | Go · Gin · ent · OpenStack |
-| **NUVO** | 전화 상황을 연습하는 AI 통화 트레이닝 서비스 | Python · gRPC · LangGraph · Kotlin/Spring · Elixir |
+| **[NUVO](https://github.com/orgs/ArtisticSW-2025/repositories)** | 전화 상황을 연습하는 AI 통화 트레이닝 서비스 | Python · gRPC · LangGraph · Kotlin/Spring · Elixir |
 | **[Aether](https://github.com/jisung-02/aether)** | Gleam으로 작성한 서버 프레임워크와 학습용 네트워킹 스택 | Gleam · Erlang/BEAM · TCP/UDP · HTTP |
 | **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
 | **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
