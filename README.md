@@ -105,9 +105,12 @@
 | **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
 | **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
 | **[webdesktopmcp](https://github.com/jisung-02/webdesktopmcp)** | Electron·Tauri·Wails 데스크톱 앱에 WebMCP를 연동하는 실험적 브리지 | TypeScript · Rust · Go · WebMCP |
-| **[Pertineo](https://pertineo.khu.ac.kr/notice/1789459715668)** | 경희대학교 자기소개서 분석 서비스의 취약점 발견 및 개선 제안. 주요 기능의 취약점을 PoC로 재현·검증하고 개선 방안을 제안해 이메일 인증·사용자별 접근 권한·공지사항 보안 강화에 기여. [공식 패치노트 · 2026.09.15](https://pertineo.khu.ac.kr/notice/1789459715668) | 보안 PoC · 취약점 분석 |
 
 ## 🔍 Security Research & Open Source
+
+| 서비스 | 내용 | 분야 |
+| :--- | :--- | :--- |
+| **[Pertineo](https://pertineo.khu.ac.kr/notice/1789459715668)** | 경희대학교 자기소개서 분석 서비스의 취약점 발견 및 개선 제안. 주요 기능의 취약점을 PoC로 재현·검증하고 개선 방안을 제안해 이메일 인증·사용자별 접근 권한·공지사항 보안 강화에 기여. [공식 패치노트 · 2026.09.15](https://pertineo.khu.ac.kr/notice/1789459715668) | 보안 PoC · 취약점 분석 |
 
 **Django · 취약점 제보 1건**
 
