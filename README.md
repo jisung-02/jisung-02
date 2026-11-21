@@ -48,17 +48,19 @@
 
 - TOPCIT 수준 4
 - 정보처리기사
-- SQLD
+- ADsP (데이터분석 준전문가)
+- SQLD (SQL 개발자)
 
 ## 🤝 Activities
 
+- **2021.03 — 2026.08** · 경희대학교 학술동아리 **RETURN** · 5년 6개월 활동
+  - 2024.03 — 2024.08 · 회장
+  - 2022.03 — 2022.07 · 부회장
+  - 2021.08 — 2022.02 · 총무부장
 - **2026.03 — 2026.06** · 경희대학교 주니어스칼라 · VoLTE/IMS 환경의 SIP 변이 퍼저 설계·구현
 - **2025.03 — 2025.06** · 경희대학교 운영체제 SW멘토
-- **2025.03 — 2025.06** · RETURN 신입생 Python 교육
-- **2024.09 — 2024.12** · 경희고등학교 C++ 교육 멘토
+- **2024.09 — 2024.12** · 경희고등학교 창의융합과정 멘토(C++)
 - **2024.08 — 2024.12** · GIST 창업팀 STS · Spring 백엔드 개발 · 치매 환자용 알약 디스펜서 서버 개발
-- **2024.03 — 2024.08** · 학술동아리 RETURN 회장
-- **2022.03 — 2022.07** · 학술동아리 RETURN 부회장
 
 <div align="center">
 
@@ -98,19 +100,12 @@
 
 | 프로젝트 | 소개 | 기술 |
 | :--- | :--- | :--- |
-| **[SIP Mutation Fuzzer](https://github.com/jisung-02/sip-mutation-fuzzer)** | VoLTE/IMS 환경에서 SIP 메시지를 변형해 단말 취약점을 탐지하는 퍼징 시스템 | Python · Open5GS · srsRAN · Kamailio |
 | **[RCP](https://github.com/KHU-RETURN/rcp-server)** | 동아리 구성원을 위한 OpenStack 기반 사설 클라우드 플랫폼 | Go · Gin · ent · OpenStack |
 | **[NUVO](https://github.com/orgs/ArtisticSW-2025/repositories)** | 전화 상황을 연습하는 AI 통화 트레이닝 서비스 | Python · gRPC · LangGraph · Kotlin/Spring · Elixir |
 | **[Aether](https://github.com/jisung-02/aether)** | Gleam으로 작성한 서버 프레임워크와 학습용 네트워킹 스택 | Gleam · Erlang/BEAM · TCP/UDP · HTTP |
-| **[KHU NLP Lab](https://github.com/jisung-02/nlp-lab)** | 연구실 구성원·논문·소식과 관리자 콘텐츠 편집 기능을 갖춘 [연구실 홈페이지](https://nlp.khu.ac.kr/) | Python · FastAPI · Jinja2 · SQLModel |
-| **[AI Routing Lab](https://github.com/jisung-02/ai-routing-lab)** | eBPF 네트워크 지표와 성능 예측으로 경로 선택 전략을 비교하는 수업 프로젝트 | Python · Linux · eBPF · scikit-learn |
-| **[webdesktopmcp](https://github.com/jisung-02/webdesktopmcp)** | Electron·Tauri·Wails 데스크톱 앱에 WebMCP를 연동하는 실험적 브리지 | TypeScript · Rust · Go · WebMCP |
+| **[SIP Mutation Fuzzer](https://github.com/jisung-02/sip-mutation-fuzzer)** | VoLTE/IMS 환경에서 SIP 메시지를 변형해 단말 취약점을 탐지하는 퍼징 시스템 | Python · Open5GS · srsRAN · Kamailio |
 
 ## 🔍 Security Research & Open Source
-
-| 서비스 | 내용 | 분야 |
-| :--- | :--- | :--- |
-| **[Pertineo](https://pertineo.khu.ac.kr/notice/1789459715668)** | 경희대학교 자기소개서 분석 서비스의 취약점 발견 및 개선 제안. 주요 기능의 취약점을 PoC로 재현·검증하고 개선 방안을 제안해 이메일 인증·사용자별 접근 권한·공지사항 보안 강화에 기여. [공식 패치노트 · 2026.09.15](https://pertineo.khu.ac.kr/notice/1789459715668) | 보안 PoC · 취약점 분석 |
 
 **Django · 취약점 제보 1건**
 
@@ -118,11 +113,17 @@
 | :--- | :--- |
 | [CVE-2026-84429](https://www.djangoproject.com/weblog/2026/oct/06/security-releases/#cve-2026-84429-potential-denial-of-service-vulnerability-in-http-header-parsing) | HTTP 헤더 파싱의 이차 시간 복잡도에 의한 서비스 거부(DoS) |
 
+**Spring AI · 취약점 제보 1건**
+
+| Advisory | 내용 |
+| :--- | :--- |
+| [CVE-2026-59340](https://spring.io/security/cve-2026-59340/) | PDF 리더(PagePdfDocumentReader·ParagraphPdfDocumentReader)의 페이지 단위 누적 메모리 할당 미제한에 의한 OOM 서비스 거부(DoS) |
+
 **Django REST Framework · 공동 발견 1건**
 
 | Advisory | 내용 |
 | :--- | :--- |
-| [GHSA-3547-9m27-7rxg](https://github.com/encode/django-rest-framework/security/advisories/GHSA-3547-9m27-7rxg) | JSONParser의 charset 처리에서 압축 코덱을 통한 메모리 증폭 및 서비스 거부(DoS) · 공동 발견자 |
+| [CVE-2026-114136](https://github.com/encode/django-rest-framework/security/advisories/GHSA-3547-9m27-7rxg) | JSONParser의 charset 처리에서 압축 코덱을 통한 메모리 증폭 및 서비스 거부(DoS) · 공동 발견자 |
 
 **Ash Framework · 취약점 제보 3건**
 
@@ -131,6 +132,12 @@
 | [CVE-2026-67579](https://github.com/ash-project/ash/security/advisories/GHSA-3gq3-9xm3-c8v3) | 키셋 커서의 필터 표현식 주입 — 데이터 계층에 따라 SQL 인젝션 또는 코드 실행 |
 | [CVE-2026-69659](https://github.com/ash-project/ash/security/advisories/GHSA-j35q-v8h8-7mwq) | 키셋 커서 역직렬화에 의한 메모리 고갈 |
 | [CVE-2026-70395](https://github.com/ash-project/ash/security/advisories/GHSA-vvp6-3wv6-833j) | 관계 조회 조건 주입에 의한 비밀 조회 키 노출 |
+
+**Pertineo · 취약점 발견 및 개선 제안**
+
+| 서비스 | 내용 | 분야 |
+| :--- | :--- | :--- |
+| **[Pertineo](https://pertineo.khu.ac.kr/notice/1789459715668)** | 경희대학교 자기소개서 분석 서비스의 취약점 발견 및 개선 제안. 주요 기능의 취약점을 PoC로 재현·검증하고 개선 방안을 제안해 이메일 인증·사용자별 접근 권한·공지사항 보안 강화에 기여. [공식 패치노트 · 2026.09.15](https://pertineo.khu.ac.kr/notice/1789459715668) | 보안 PoC · 취약점 분석 |
 
 ## 📈 GitHub Stats
 
