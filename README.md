@@ -113,12 +113,6 @@
 | :--- | :--- |
 | [CVE-2026-84429](https://www.djangoproject.com/weblog/2026/oct/06/security-releases/#cve-2026-84429-potential-denial-of-service-vulnerability-in-http-header-parsing) | HTTP 헤더 파싱의 이차 시간 복잡도에 의한 서비스 거부(DoS) |
 
-**Spring AI · 취약점 제보 1건**
-
-| Advisory | 내용 |
-| :--- | :--- |
-| [CVE-2026-59340](https://spring.io/security/cve-2026-59340/) | PDF 리더(PagePdfDocumentReader·ParagraphPdfDocumentReader)의 페이지 단위 누적 메모리 할당 미제한에 의한 OOM 서비스 거부(DoS) |
-
 **Django REST Framework · 공동 발견 1건**
 
 | Advisory | 내용 |
